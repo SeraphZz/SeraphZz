@@ -1,8 +1,11 @@
-Hi, I’m Seraphz (but you can call me guto as well), i'm 17 years old, I'm a Brazilian I.T highschool student residing in Rio de Janeiro, aiming to do Comp. Sci. in the UFRJ College.
+Hi, I’m Augusto, i'm 18 years old, I'm a Brazilian I.T highschool student residing in Rio de Janeiro, Brazil, aiming to do Comp. Sci. in the UERJ College.
+
 I’m interested in Coding and Programming, as well as computer maintenance.
-I’m currently learning Python and C#, i know VB.net and some HTML but my HTML skills are not very good.
-I’m looking to learn code in an interesting manner, as in using for future skills and projects
-You can HMU using Discord. (saintseraphz)
+
+Made applications in C# and VB.NET, learning WPF as well.
+
+You can DM me using Discord. (@saintseraphz)
+
 Looking forward to learn and improve myself everyday.
 
 <!---
