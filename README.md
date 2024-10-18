@@ -1,8 +1,8 @@
 Português - PT-BR 
 
-Oi, sou o Augusto, tenho 18 anos e sou estudante de informática no ensino médio no Rio de Janeiro, Brasil. Meu objetivo é cursar Ciência da Computação na UERJ.
+Oi, sou o Augusto, tenho 18 anos e sou estudante de informática no ensino médio no Rio de Janeiro. Tenho o sonho de cursar Ciência da Computação na UERJ.
 
-Tenho interesse em programação e manutenção de computadores. Já fiz aplicações em C e VB.NET e estou aprendendo WPF também.
+Tenho interesse em programação e manutenção de computadores. Já fiz aplicativos em C # e VB.NET e estou aprendendo WPF também.
 
 Você pode me mandar mensagem no Discord. (@saintseraph)
 
