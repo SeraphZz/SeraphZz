@@ -1,6 +1,6 @@
 Português - PT-BR 
 
-Oi, sou o Augusto, tenho 18 anos sou Técnico em Informático e curso Engenharia de Software na UVA (Universidade Veiga de Almeida)
+Oi, sou o Augusto, tenho 18 anos sou Técnico em Informática e curso Engenharia de Software na UVA (Universidade Veiga de Almeida)
 
 Tenho interesse em programação e manutenção de computadores. Já fiz aplicativos em C # e VB.NET e estou aprendendo WPF também.
 
