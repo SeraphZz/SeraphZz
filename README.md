@@ -1,6 +1,6 @@
 Português - PT-BR 
 
-Oi, sou o Augusto, tenho 18 anos sou Técnico em Informática e curso Engenharia de Software na UVA (Universidade Veiga de Almeida)
+Oi! sou o Augusto, tenho 18 anos sou Técnico em Informática e curso Engenharia de Software na UVA (Universidade Veiga de Almeida)
 
 Tenho interesse em programação e manutenção de computadores. Já fiz aplicativos em C # e VB.NET e estou aprendendo WPF também.
 
@@ -12,7 +12,7 @@ Estou ansioso para aprender e me aprimorar todos os dias.
 English - ENG
 
 
-Hi, I'm Augusto, I'm 18 years old, I'm a Computer Technician and I'm studying Software Engineering at UVA (Veiga de Almeida University)
+Hello! I'm Augusto, I'm 18 years old, I'm a Computer Technician and I'm studying Software Engineering at UVA (Veiga de Almeida University)
 
 I am interested in computer programming and maintenance. I've already made applications in C# and VB.NET and I'm learning WPF as well.
 
