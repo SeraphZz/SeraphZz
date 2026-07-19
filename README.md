@@ -2,7 +2,7 @@ Português - PT-BR
 
 Oi! sou o Augusto, tenho 19 anos sou Técnico em Informática e curso Engenharia de Software na UVA (Universidade Veiga de Almeida)
 
-Tenho interesse em programação e manutenção de computadores. Já fiz aplicativos em C # e VB.NET e estou aprendendo WPF também.
+Tenho interesse em programação e manutenção de computadores. Já fiz aplicativos em C#, Java e Python, estou aprendendo WPF também.
 
 Você pode me mandar mensagem no Discord. (@saintseraph)
 
@@ -14,7 +14,7 @@ English - ENG
 
 Hello! I'm Augusto, I'm 19 years old, I'm a Computer Technician and I'm studying Software Engineering at UVA (Veiga de Almeida University)
 
-I am interested in computer programming and maintenance. I've already made applications in C# and VB.NET and I'm learning WPF as well.
+I am interested in computer programming and maintenance. I've already made applications in C#, Java and Python and I'm learning WPF as well.
 
 You can message me on Discord. (@saintseraph)
 
