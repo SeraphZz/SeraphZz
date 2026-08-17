@@ -17,7 +17,6 @@ Tenho interesse em desenvolvimento full-stack, automação e IA generativa. Gost
 
 | Projeto | Descrição | Tech |
 |---|---|---|
-| [Automação WhatsApp + IA](https://github.com/SeraphZz) | Fluxo que integra WhatsApp à API do Gemini via n8n com prompts estruturados | n8n · Gemini API |
 | [Controle do PC por gestos](https://github.com/SeraphZz/cv-controle-do-pc) | Controle do computador via webcam com reconhecimento de mãos em tempo real | Python · OpenCV · MediaPipe |
 | [Contagem de dedos](https://github.com/SeraphZz/Vis-o-computacional---contagem-de-dedos) | Detecção e contagem de dedos em tempo real pela webcam | Python · OpenCV · MediaPipe |
 | [Sistema de Cadastro (TCC)](https://github.com/SeraphZz/sistema-desktop-TCC) | Sistema desktop de cadastro de empresas desenvolvido como TCC do técnico | .NET · C# · MySQL |
