@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="./hey-im-augusto.gif" alt="hey, i'm augusto!" width="400" />
-</div>
+
+  <img src="2026-08-28-hey-i-m-augusto- (1).gif" alt="hey, i'm augusto!" width="500" />
 
 
 
@@ -8,7 +7,7 @@
 
 I’m interested in full-stack development, automation, and generative AI. I enjoy solving real-world problems with code and am always learning something new through hands-on experience.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stacks
 
 **Languages:** Python · JavaScript · TypeScript · C# · Java  
 **Front-end:** React · HTML5 · CSS3  
@@ -23,7 +22,7 @@ I’m interested in full-stack development, automation, and generative AI. I enj
 |---|---|---|
 | [Gesture-Based PC Control](https://github.com/SeraphZz/cv-controle-do-pc) | Control a computer via webcam using real-time hand recognition | Python · OpenCV · MediaPipe |
 | [Finger Counting](https://github.com/SeraphZz/Vis-o-computacional---contagem-de-dedos) | Real-time finger detection and counting via webcam | Python · OpenCV · MediaPipe |
-| [Registration System (Final Project)](https://github.com/SeraphZz/sistema-desktop-TCC) | Desktop-based business registration system developed as a technical student’s final project | .NET · C# · MySQL |
+| [Registration System (Final Project)](https://github.com/SeraphZz/sistema-desktop-TCC) | Desktop-based business registration system developed as my technical s final project | .NET · C# · MySQL |
 
 ## 📫 Contact
 
