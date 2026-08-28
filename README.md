@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="./hey-im-augusto.gif" alt="hey, i'm augusto!" width="400" />
+</div>
 
 
 
